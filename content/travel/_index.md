@@ -3,53 +3,22 @@ draft: false
 title: "Travel Advice"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5988.827892632287!2d-3.7497530637098593!3d50.72189916227002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486dac616bc30dc7%3A0x95241c452f2c9cec!2sEggbeer%20Farm!5e0!3m2!1sen!2suk!4v1659273800010!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4042.3292028622577!2d144.30506287664113!3d-37.28697057211228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad727c702c6e941%3A0xb2b14ebf7df981d5!2sThe%20Burrow!5e1!3m2!1sen!2sau!4v1758003628810!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Address
 
-Higher Eggbeer Farm, 
-Cheriton Bishop, 
-Exeter, 
-EX6 6JQ
+The Burrow,  
+189 Springhill Rd,  
+Denver VIC 3444
 
-## By train
+Plus code: P875+63 Denver, Victoria
 
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
+## By taxi or Uber
 
-You would then need to travel by taxi.
+**Daylesford Taxi Cabs** - via their [website](https://discoverdaylesford.com/daylesford-taxi-service/) or calling [03 5348 1111](tel:0353481111).
 
-## By taxi
-
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
-
-Please arrange cabs home for your group on Saturday night after the wedding.
-
-<br>
-
-**Taxi Companies:**
-
-Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
-
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
-
-Andrew Mills Taxi - 01392 253588
+Uber reckons they [service Daylesford](https://www.uber.com/global/en/r/cities/daylesford-hepburn-springs-vic-au/]).
 
 ## By car
 
-**Note: Parking is available on site and cars can be left on site overnight**
-
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
-
- 
-
-
-
-
-
-
-
-
+Drive to Daylesford yo
