@@ -1,8 +1,7 @@
-# Wedding Website - Status = Hitched! 📨
+# Wedding website
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/15078782/150659777-bf20ca44-136e-4122-82ba-bbccc8a7e034.gif">
-</p>
+Forked from https://github.com/SarahFrench/wedding-website
+
 
 If you're reading this- hello! I didn't want to spend money on Squarespace/Wix/etc to make a website for my wedding guests, so here it is deployed on GitHub Pages.
 
