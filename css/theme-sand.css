@@ -51,18 +51,18 @@
     --h2-font-style: normal;
 }
 
-.logo-container #flowers .cls-2 {
+.logo-container #flowers path {
     fill: #333;
     fill: var(--grevillea-grey);
     fill: #752e19;
     opacity: 0.5;
 }
 
-.logo-container #card .cls-3 {
+.logo-container #card rect {
     fill: #fdfbf7;
 }
 
-.logo-container #borders .cls-1 {
+.logo-container #borders path {
     fill: #b28b00;
     fill: var(--grevillea-grey);
 }
@@ -71,7 +71,7 @@
     fill: var(--grevillea-brown);
 }
 
-.logo-container #text .cls-10 * {
+.logo-container #text text * {
     font-family: "minion-pro", "Larken", serif;
     color: #1a1a1a;
     fill: #1a1a1a;
