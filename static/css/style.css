@@ -97,10 +97,11 @@ p {
         display: grid;
         place-items: center;
         padding-left: 20px;
+        overflow: hidden;
     }
     .logo-container svg {
         max-height: 100vh;
-        min-height: 80vh;
+        min-height: 70vh;
         max-width: 130vw;
         min-width: 50vw;
     }
