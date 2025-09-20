@@ -33,6 +33,22 @@
     --blockquote-background-colour: var(--cream);
     --blockquote-text-colour: var(--grevillea-brown);
     --blockquote-link-colour: var(--grevillea-red);
+    /* Fonts */
+    /* Nav menu */
+    --nav-font-family: "begum", 'Nofo Sans', sans-serif;
+    --nav-font-weight: 400;
+    --nav-font-size: 1rem;
+    --nav-font-size-mobile: 1.5rem;
+    --nav-font-style: italic;
+    /* Headings */
+    --h1-font-family: "begum", 'Noto Sans', sans-serif;
+    --h1-font-weight: 700;
+    --h1-font-size: 2rem;
+    --h1-font-style: normal;
+    --h2-font-family: "begum", 'Noto Sans', sans-serif;
+    --h2-font-weight: 500;
+    --h2-font-size: 1.5rem;
+    --h2-font-style: normal;
 }
 
 .logo-container #flowers .cls-2 {
@@ -57,4 +73,15 @@
 
 .logo-container #decoration {
     fill: var(--grevillea-brown);
+}
+
+h2 {
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    font-style: var(--h2-font-style);
+    font-size: var(--h2-font-size);
+}
+
+.header__text {
+    font-family: var(--h2-font-family);
 }
