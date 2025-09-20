@@ -1,0 +1,60 @@
+:root {
+    --main-font: 'Noto Sans', sans-serif;
+    --eggshell: #fdfbf7;
+    --cream: #FAF2DA;
+    --light-green: #8E9775;
+    --dark-green: #4A503D;
+    --dusty-pink: #E28F83;
+    --dusty-brown: #BF9264;
+    --sage-green: #6F826A;
+    --eucalypt: #BBD8A3;
+    --sand: #F0F1C5;
+    --grevillea-red: #BD2623;
+    --grevillea-green1: #545423;
+    --grevillea-green2: #516D33;
+    --grevillea-brown: #312921;
+    --grevillea-cream: #CAA79C;
+    --grevillea-grey: #534E3C;
+    --nav-menu-background: var(--cream);
+    --nav-menu-text-colour: var(--dark-green);
+    --nav-menu-link-colour: var(--dark-green);
+    --body-background-colour: var(--cream);
+    --body-text-colour: var(--grevillea-brown);
+    --body-link-colour: var(--dark-green);
+    --section-background: var(--cream);
+    --section-text-colour: var(--dark-green);
+    --section-link-colour: var(--grevillea-red);
+    --section-alt-background: var(--cream);
+    --section-alt-text-colour: var(--dark-green);
+    --section-alt-link-colour: var(--grevillea-red);
+    --footer-background-colour: var(--crea, );
+    --footer-text-colour: var(--grevillea-brown);
+    --footer-link-colour: var(--grevillea-red);
+    --blockquote-background-colour: var(--cream);
+    --blockquote-text-colour: var(--grevillea-brown);
+    --blockquote-link-colour: var(--grevillea-red);
+}
+
+.logo-container #flowers .cls-2 {
+    fill: #333;
+    fill: var(--grevillea-grey);
+    fill: #752e19;
+    opacity: 0.5;
+}
+
+.logo-container #card .cls-3 {
+    fill: #fdfbf7;
+}
+
+.logo-container #borders .cls-1 {
+    fill: #b28b00;
+    fill: var(--grevillea-grey);
+}
+
+.logo-container #text {
+    fill: var(--grevillea-brown);
+}
+
+.logo-container #decoration {
+    fill: var(--grevillea-brown);
+}

@@ -16,12 +16,27 @@
     min-width: 50vw;
 }
 
+
+/* VARIABLES */
+
 body {
-    background-color: var(--grevillea-green1);
-    color: var(--sand);
     font-family: var(--main-font);
     position: absolute;
     min-width: 100vw;
+    color: var(--body-text-colour);
+    background-color: var(--body-background-colour);
+}
+
+body a:link,
+body a:visited,
+body a:hover,
+body a:active {
+    color: var(--body-link-colour);
+}
+
+body a:hover {
+    transform: scale(1.1);
+    transition: all 0.25s ease-in-out;
 }
 
 
@@ -45,27 +60,6 @@ p {
         width: 600;
         height: 450;
     }
-}
-
-
-/* VARIABLES */
-
-:root {
-    --main-font: 'Noto Sans', sans-serif;
-    --cream: #FAF2DA;
-    --light-green: #8E9775;
-    --dark-green: #4A503D;
-    --dusty-pink: #E28F83;
-    --dusty-brown: #BF9264;
-    --sage-green: #6F826A;
-    --eucalypt: #BBD8A3;
-    --sand: #F0F1C5;
-    --grevillea-red: #BD2623;
-    --grevillea-green1: #545423;
-    --grevillea-green2: #516D33;
-    --grevillea-brown: #312921;
-    --grevillea-cream: #CAA79C;
-    --grevillea-grey: #534E3C;
 }
 
 
@@ -101,9 +95,6 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--grevillea-green1);
-    color: var(--sand);
-    text-shadow: var(--dark-green) 2px 2px 0px;
     letter-spacing: 2px;
     height: 100vh;
 }
@@ -174,14 +165,14 @@ p {
     height: 80px;
     cursor: pointer;
     transition: all .5s ease-in-out;
-    background-color: var(--grevillea-green1);
+    background-color: var(--nav-menu-background);
     border-radius: 50%;
 }
 
 .nav-mobile__burger {
     width: 50px;
     height: 6px;
-    background: var(--sand);
+    background: var(--nav-menu-text-colour);
     border-radius: 5px;
     transition: all .5s ease-in-out;
 }
@@ -192,7 +183,7 @@ p {
     position: absolute;
     width: 50px;
     height: 6px;
-    background: var(--sand);
+    background: var(--nav-menu-text-colour);
     border-radius: 5px;
     transition: all .5s ease-in-out;
 }
@@ -223,7 +214,7 @@ p {
 
 .nav-mobile__menu {
     display: none;
-    background-color: var(--grevillea-green1);
+    background-color: var(--nav-menu-background);
     width: 100vw;
     height: 100vh;
     position: fixed;
@@ -246,7 +237,7 @@ p {
         z-index: 1;
         padding: 20px 20%;
         width: 100%;
-        background-color: var(--dusty-brown);
+        background-color: var(--nav-menu-background);
         display: flex;
         flex-direction: row;
         justify-content: space-around;
@@ -261,7 +252,7 @@ p {
     font-size: 1.5rem;
     font-weight: bolder;
     margin-bottom: 1.5rem;
-    color: var(--sand);
+    color: var(--nav-menu-text-colour);
     font-style: italic;
     text-align: center;
     text-transform: uppercase;
@@ -363,15 +354,36 @@ p {
 }
 
 .section.light {
-    color: var(--dark-green);
-    background-color: var(--sand);
+    color: var(--section-text-colour);
+    background-color: var(--section-background);
+}
+
+.section.light a:link,
+.section.light a:visited,
+.section.light a:hover,
+.section.light a:active {
+    color: var(--section-link-colour);
+    text-decoration: none;
+}
+
+.section.light a:hover,
+.section.dark a:hover {
+    text-decoration: underline
 }
 
 .section.dark {
     width: 100%;
     min-height: 200px;
-    color: var(--sand);
-    background-color: var(--light-green);
+    color: var(--section-alt-text-colour);
+    background-color: var(--section-alt-background);
+}
+
+.section.dark a:link,
+.section.dark a:visited,
+.section.dark a:hover,
+.section.dark a:active {
+    color: var(--section-alt-link-colour);
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 800px) {
@@ -417,7 +429,8 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    color: var(--sand);
+    color: var(--footer-text-colour);
+    background: var(--footer-background-colour);
     font-size: 75%;
 }
 
@@ -435,13 +448,12 @@ p {
 .footer a:visited,
 .footer a:hover,
 .footer a:active {
-    color: var(--sand);
+    color: var(--footer-link-colour);
 }
 
 @media only screen and (min-width: 800px) {
     .footer {
         text-align: right;
-        color: var(--sand);
         font-size: inherit;
     }
     .footer svg {
@@ -501,7 +513,20 @@ blockquote {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1rem;
-    color: var(--light-green)
+    color: var(--blockquote-text-colour);
+    background: var(--blockquote-background-colour);
+}
+
+blockquote a:link,
+blockquote a:visited,
+blockquote a:hover,
+blockquote a:active {
+    color: var(--blockquote-link-colour);
+    text-decoration: none;
+}
+
+blockquote a:hover {
+    text-decoration: underline
 }
 
 @media only screen and (min-width: 800px) {
@@ -512,5 +537,18 @@ blockquote {
 
 figcaption {
     text-align: right;
-    color: var(--light-green)
+    color: var(--blockquote-text-colour);
+    background: var(--blockquote-background-colour);
+}
+
+section.section ol,
+section.section ul {
+    margin: 0 5rem;
+}
+
+section.section ol ol,
+section.section ul ul,
+section.section ol ul,
+section.section ul ol {
+    margin: 0 2rem;
 }
