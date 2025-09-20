@@ -35,7 +35,7 @@
     --blockquote-link-colour: var(--grevillea-red);
     /* Fonts */
     /* Nav menu */
-    --nav-font-family: "begum", 'Nofo Sans', sans-serif;
+    --nav-font-family: "begum", 'Noto Sans', sans-serif;
     --nav-font-weight: 400;
     --nav-font-size: 1rem;
     --nav-font-size-mobile: 1.5rem;
@@ -69,6 +69,12 @@
 
 .logo-container #text {
     fill: var(--grevillea-brown);
+}
+
+.logo-container #text .cls-10 * {
+    font-family: "minion-pro", "Larken", serif;
+    color: #1a1a1a;
+    fill: #1a1a1a;
 }
 
 .logo-container #decoration {
