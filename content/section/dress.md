@@ -3,8 +3,6 @@ draft: false
 title: "Dress"
 ---
 
-Please wear what would make you feel your most glamorous and sexy! There's no dress code or rules and none of us will be wearing traditional wedding dress - Hugo will be in a pink suit, and Sarah in a light green dress.
+Be colourful, be fun, and be comfortable.
 
-<br>
-
-As we will be getting married on a farm in February **we encourage everyone to bring lots of layers**! There may be brief moments when we will need to go outside while barns are being rearranged, but inside the barn there is heating and a fire.
+As we will be getting married on a farm in central Victoria on the cusp of summer, **we encourage everyone to dress in layers** and be sun smart!

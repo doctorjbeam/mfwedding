@@ -1,21 +1,34 @@
+{{ $icon_map := dict
+    "vendor" "font-awesome-solid"
+    "name" "location-dot"
+}}
+{{ $icon_date := dict
+    "vendor" "font-awesome-solid"
+    "name" "calendar-days"
+}}
+{{ $icon_clock := dict
+    "vendor" "font-awesome-solid"
+    "name" "clock"
+}}
+
 <main>
     <div class="image image1"></div>
 
 
     <section id="when" class="section">
         <div class="section__svg">
-            {{ partial "svgs/protea-cropped1.svg" . }}
+            {{ partial "svgs/gumleaf1.svg" . }}
         </div>
         <h1 class="section__heading">The Wedding</h1>
         <section class="section__split">
             <div>
-                <p class="section__subheading">When</p>
+                <p class="section__subheading">{{ partial "icons/icon" $icon_date }} When</p>
                 <p class="section__text--bold">
                     {{ .Params.when }}
                 </p>
             </div>
             <div>
-                <p class="section__subheading">Where</p>
+                <p class="section__subheading">{{ partial "icons/icon" $icon_map }} Where</p>
                 <p class="section__text--bold">
                     {{ .Params.where.first }}
                 </p>
@@ -24,6 +37,9 @@
                 </p>
             </div>
         </section>
+        <center>
+            <p><em>View the <a href="/travel">travel page</a> for more info.</em></p>
+        </center>
     </section>
 
     <div class="image image2"></div>
@@ -31,7 +47,7 @@
 
     <section id="order-of-events" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/protea-cropped2.svg" . }}
+            {{ partial "svgs/grevillea.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/order-of-events" }}
@@ -45,7 +61,7 @@
 
     <section id="travel-accommodation" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/protea-cropped3.svg" . }}
+            {{ partial "svgs/gumleaf3.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/travel-accommodation" }}
@@ -59,7 +75,7 @@
 
     <section id="dress" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/protea-cropped4.svg" . }}
+            {{ partial "svgs/wattle.svg" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/dress" }}
@@ -87,7 +103,7 @@
 
     <section id="more" class="section light" style="text-align:center;">
         <div class="section__svg">
-            {{ partial "svgs/protea-cropped5.svg" . }}
+            {{ partial "svgs/waxflower.svg" . }}
         </div>
         <p style="margin-bottom:1em;">some text!</p>
     </section>
