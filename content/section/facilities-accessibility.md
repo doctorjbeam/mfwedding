@@ -7,4 +7,4 @@ title: "Facilities and Accessibilty"
 
 Except for the forest ceremony, the venue is flat and on a single level.
 
-Access to the venue from the car park is via a gently-sloped gravel path. 
+Access to the venue from the car park is via a gently-sloped gravel path.
