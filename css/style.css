@@ -75,6 +75,9 @@ p {
         background-size: cover;
         height: 500px;
     }
+    .logo-container {
+        overflow: hidden;
+    }
     .logo-container svg {
         max-height: 80vh;
         /* min-height: 80vh; */
@@ -386,6 +389,18 @@ p {
     height: 15%;
 }
 
+.section__svg a svg {
+    width: 300px;
+    height: 300px;
+}
+
+@media only screen and (max-width: 800px) {
+    .section__svg a svg {
+        width: 170px;
+        height: 170px;
+    }
+}
+
 .section.light {
     color: var(--section-text-colour);
     background-color: var(--section-background);
@@ -590,4 +605,8 @@ section.section ul ul,
 section.section ol ul,
 section.section ul ol {
     margin: 0 2rem;
+}
+
+iframe.google-maps {
+    max-width: calc(100vw - 40px);
 }
