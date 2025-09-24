@@ -1,6 +1,6 @@
 ---
 draft: false
-when: "November 2026"
+when: "Saturday, November 7th, 2026"
 where:
   first: "The Burrow"
   second: "189 Springhill Rd, Denver VIC 3444"

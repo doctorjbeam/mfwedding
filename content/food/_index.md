@@ -5,7 +5,7 @@ title: "Food and drink"
 
 ## Dietary requirements
 
-Please let Freya and Michael know about any dietary requirements before &lt;date&gt;. We are well accustomed to catering for special diets.
+Please let Freya and Michael know about any dietary requirements. We are well accustomed to catering for special diets.
 
 ## Food
 
