@@ -40,7 +40,8 @@
     "params": {
         "background_image_1": "https://michaelgreenhill-net.s3.ap-southeast-2.amazonaws.com/cdn/wedding/PXL_20240427_035324422.jpg",
         "background_image_2": "https://michaelgreenhill-net.s3.ap-southeast-2.amazonaws.com/cdn/wedding/PXL_20240627_092239359.MP.jpg",
-        "background_image_3": "https://michaelgreenhill-net.s3.ap-southeast-2.amazonaws.com/cdn/wedding/FB_IMG_1683706950251.jpg"
+        "background_image_3": "https://michaelgreenhill-net.s3.ap-southeast-2.amazonaws.com/cdn/wedding/FB_IMG_1683706950251.jpg",
+        "background_image_4": "https://michaelgreenhill-net.s3.ap-southeast-2.amazonaws.com/cdn/wedding/IMG_6433.JPG"
     },
     "module": {
         "imports": [{
