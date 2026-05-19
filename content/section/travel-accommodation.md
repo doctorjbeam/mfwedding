@@ -7,4 +7,4 @@ title: "Travel and Accommodation"
 
 This is Daylesford, the AirBnB capital of Victoria: there's plenty of accommodation for all budget ranges.
 
-Pre-book a taxi if you're planning on having a few bevvies with the boys.
+A shuttle bus picking up in Daylesford and Hepburn Springs will be available for those staying locally.

@@ -14,15 +14,17 @@ Denver VIC 3444
 <br>
 <br>
 
+### By shuttle bus
+
+As parking is limited at the venue, we'll be providing a shuttle bus picking up from Daylesford and Hepburn Springs for arrival at The Burrow at 4 pm. The bus will depart The Burrow at 10:30 pm to drop off back in Daylesford / Hepburn Springs.
+
 ### By taxi or Uber
 
 **Daylesford Taxi Cabs** - via their [website](https://discoverdaylesford.com/daylesford-taxi-service/) or calling [03 5348 1111](tel:0353481111).
 
-Uber reckons they [service Daylesford](https://www.uber.com/global/en/r/cities/daylesford-hepburn-springs-vic-au/]).
-
 ### By car
 
-For those designated drivers, the car park at The Burrow can hold 35 cars. 
+For those designated drivers, the car park at The Burrow can hold 30 cars.
 
 ## What else is on
 
@@ -49,7 +51,6 @@ Steam train from Castlemaine to Maldon.
 
 - [Daylesford sunday market](https://daylesfordsundaymarket.com.au/)<Br>
 The market opens at 8am and winds down (stalls start leaving) from 1pm with a close time of 3pm.
-
 
 ### Drink
 

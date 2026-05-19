@@ -5,11 +5,11 @@ title: "Food and drink"
 
 ## Dietary requirements
 
-Please let Freya and Michael know about any dietary requirements before &lt;date&gt;. We are well accustomed to catering for special diets.
+Please let Freya and Michael know about any dietary requirements when you RSVP. We are well accustomed to catering for special diets and will do what we can to acommodate you.
 
 ## Food
 
-As we aim for a relaxed and informal wedding, food trucks will be catering for us on the day.
+As we aim for a relaxed and informal wedding, wood fired pizzas from Happy Camper will be on the menu along with a grazing board of local meats and cheeses, and gelato to round off what we hope will be a warm and sunny day.
 
 ## Drinks
 
