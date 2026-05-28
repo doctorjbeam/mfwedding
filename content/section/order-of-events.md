@@ -23,7 +23,7 @@ While Freya and Michael will disappear for photos, grab a drink and have a nibbl
 
 ## 6:00 pm - Food
 
-We'll be serving wood fired pizzas courtesy of Happy Camper Pizza. If you have dietary requirements, please head over to the pizza truck who will be able to help you out.
+We'll be serving pizzas courtesy of Happy Camper Pizza. If you have dietary requirements, please head over to the pizza truck who will be able to help you out.
 
 ## 7:30 pm - Speeches
 
