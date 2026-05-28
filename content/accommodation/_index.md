@@ -21,7 +21,7 @@ Daylesford and the surrounding towns have plenty of AirBnBs on offer, either thr
 
 ## Hotels
 
-- [Hotel Bellinzona](https://bellinzona.com.au/), Hepburn.
+- [Hotel Bellinzona](https://clubwyndhamsp.com/resorts/victoria/club-wyndham-bellinzona-hepburn-springs-daylesford/), Hepburn.
   - Recently rennovated, offerring posh rooms with a great restaurant downstairs.
   - 18 minute drive. 10 minutes if your name is Matt.
 
