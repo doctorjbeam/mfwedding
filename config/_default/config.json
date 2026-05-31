@@ -1,7 +1,8 @@
 {
     "baseURL": "https://fm.wedding/",
-    "languageCode": "en-us",
+    "locale": "en-AU",
     "title": "Freya & Michael's Wedding",
+    "defaultContentLanguage": "en",
     "show_comments": false,
     "disableKinds": [
         "sitemap",

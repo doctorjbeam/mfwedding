@@ -15,9 +15,9 @@
 body {
     font-family: var(--main-font);
     position: absolute;
-    min-width: 100vw;
     color: var(--body-text-colour);
     background-color: var(--body-background-colour);
+    width: 100%;
 }
 
 body a:link,
@@ -41,6 +41,7 @@ html {
 
 p {
     margin: 1rem 0;
+    line-height: 1.5;
 }
 
 .google-map {
@@ -371,7 +372,7 @@ p {
 
 .section__split div:nth-child(1) {
     border-right: none;
-    border-bottom: solid 2px var(--grevillea-green1);
+    border-bottom: solid 1px var(--grevillea-green1);
 }
 
 @media only screen and (min-width: 800px) {
@@ -379,7 +380,7 @@ p {
         flex-direction: row;
     }
     .section__split div:nth-child(1) {
-        border-right: solid 2px var(--grevillea-green1);
+        border-right: solid 1px var(--grevillea-green1);
         border-bottom: none;
     }
 }
@@ -460,6 +461,24 @@ p {
     font-weight: var(--h1-font-weight);
     font-style: var(--h1-font-style);
     font-size: var(--h1-font-size);
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section__heading:before,
+.section__heading:after {
+    content: '';
+    border-top: 1px solid var(--grevillea-green1);
+    margin: 0 20px 0 0;
+    flex: 1 0 20px;
+    opacity: 0.5;
+}
+
+.section__heading:after {
+    margin: 0 0 0 20px;
 }
 
 .section__subheading {
@@ -609,4 +628,6 @@ section.section ul ol {
 
 iframe.google-maps {
     max-width: calc(100vw - 40px);
+    min-width: 100%;
+    margin: 2rem 0;
 }
