@@ -1,10 +1,18 @@
 ---
 draft: false
-title: "Facilities and Accessibilty"
+title: "Accessibilty"
 ---
 
-## Accessibility
+Please reach out if you have mobility requirements.
 
-Except for the forest ceremony, the venue is flat and on a single level.
+## Car parking
 
 Access to the venue from the car park is via a gently-sloped gravel path.
+
+## Ceremony
+
+Our ceremony will be held in **the forest**, a short walk from the main venue.
+
+## Reception
+
+Our reception will be held in **the paddock**: a grassed area adjacent to the indoor dancefloor.
