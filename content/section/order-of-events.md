@@ -5,13 +5,11 @@ title: "Order of Events"
 
 ## 3:30 pm - Shuttle bus
 
-For those opting for the shuttle bus from Daylesford township, please be ready at the pickup point by 3:30 pm for a prompt arrival at 4 pm.
+For those opting for the shuttle bus from Daylesford township, please be ready at the pickup points by 3:30 pm for a prompt arrival at 4 pm. Please let us know via the RSVP if you wish to use the shuttle bus.
 
 ## 4:00 pm - Welcome to The Burrow
 
 Everyone arrives at The Burrow in Denver, on the outskirts of Daylesford. **Head on over to the [travel](/travel) page for more information.**
-
-Cocktail on arrival.
 
 ## 4:30 pm - Ceremony
 
@@ -23,14 +21,12 @@ While Freya and Michael will disappear for photos, grab a drink and have a nibbl
 
 ## 6:00 pm - Food
 
-We'll be serving pizzas courtesy of Happy Camper Pizza. If you have dietary requirements, please head over to the pizza truck who will be able to help you out.
-
-## 7:30 pm - Speeches
-
-## 8:00 pm - Cake and gelato
+Sit down and enjoy pizzas underneath the festoon lights in The Paddock. If you have dietary requirements, please head over to the pizza truck.
 
 ## 8:30 pm - Dancing
 
 Head over to The Barn for dancing and good tunes.
 
-## 10:30 pm - head on home
+## 11:00 pm - Head on home
+
+For those who have taken the shuttle bus, please rejoin for your journey back to town.

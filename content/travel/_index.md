@@ -13,7 +13,7 @@ Denver VIC 3444
 
 ### Shuttle bus
 
-As parking is limited at the venue, we'll be providing a shuttle bus for guesets staying in the area, picking up from Daylesford and Hepburn Springs for arrival at The Burrow at 4 pm. The bus will depart The Burrow at 10:30 pm to drop off back in Daylesford / Hepburn Springs.
+As parking is limited at the venue we'll be providing a shuttle bus for guests staying in the area, picking up from Daylesford and Hepburn Springs for arrival at The Burrow at 4 pm. The bus will depart The Burrow at 11:00 pm to drop off back in Daylesford / Hepburn Springs.
 
 Please let us know if you wish to make use of the shuttle bus when you submit your RSVP.
 
@@ -23,7 +23,7 @@ For those designated drivers, the car park at The Burrow can hold 35 cars.
 
 ### Uber
 
-Uber is extremely limited in Daylesford.
+Uber is extremely limited in Daylesford. We don't recommend relying on this!
 
 ### Taxi
 
@@ -47,10 +47,10 @@ If hoarding and capitalism had a baby.
 ### Do
 
 - [Daylesford Spa Country Railway](https://www.facebook.com/daylesfordrailway)<br>
-Ride the vintage train to Passing Clouds winery.
+Ride The Vintage Train&trade; to Passing Clouds winery.
 
 - [Victorian Goldfields Railway](https://www.vgr.com.au/)<br>
-Steam train from Castlemaine to Maldon. 
+Steamy choo choos from Castlemaine to Maldon.
 
 - [Daylesford sunday market](https://daylesfordsundaymarket.com.au/)<Br>
 The market opens at 8am and winds down (stalls start leaving) from 1pm with a close time of 3pm.
@@ -61,10 +61,10 @@ The market opens at 8am and winds down (stalls start leaving) from 1pm with a cl
 There's a load of mineral springs in the area worth checking out!
 
 - [Buy some spicy water](https://mineralspringsco.com/)<br>
-As above, but more commercial
+As above, but more commercial.
 
 - [Daylesford Spirit](https://daylesfordspirit.com.au/)<br>
-Go try out some gin.
+Go out and try some gin!
 
 - [Hepburn Distillery](https://hepburndistillery.com/)<br>
 These guys are in Daylesford but Daylesford Spirits are not. Don't @ me, I just write the list.
@@ -78,16 +78,16 @@ Cider. From Daylesford.
 ### Eat
 
 - [Kadota](http://kadotarestaurant.com.au/)<br>
-Fine Japanese dining.
+Fancy AF Japanese dining.
 
 - [Pizzeria La Luna](https://pizzerialaluna.com.au/)<br>
-Great pizzas made with local ingredients.
+Great pizzas. Taste good. 10/10 will order again.
 
 - [Cliffy's Emporium](https://www.cliffysemporium.com.au/)<br>
 Good coffee and food, but very popular - get there early!
 
 - [Farmers Arms Daylesford Hotel](http://farmersarmsdaylesford.com.au/)<br>
-They do parmas. 
+They do parmas.
 
 - [The Virgin Kitchen](https://bellinzona.com.au/dining-at-bellinzona-daylesford/)<br>
 Breakfast, lunch, and dinner. Good food and good coffee.
@@ -97,3 +97,6 @@ Their BLT is the best.
 
 - [Pig and Whistle Hotel](http://www.pigandwhistlehotel.com.au/)<br>
 Good on a sunny day. Lots of space, good food.
+
+- [Glenlyon General Store](https://glenlyongeneralstore.com.au/)<br>
+Helpburn and Glenlyon can fight it out over who has the best BLT. This marriage is built on bacon.
