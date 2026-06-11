@@ -5,7 +5,7 @@ title: "Order of Events"
 
 ## 3:30 pm - Shuttle bus
 
-For those opting for the shuttle bus from Daylesford township, please be ready at the pickup points by 3:30 pm for a prompt arrival at 4 pm. Please let us know via the RSVP if you wish to use the shuttle bus.
+For those opting for the shuttle bus from Daylesford township, please be ready at the pickup points by 3:30 pm for a prompt arrival at 4 pm. Please let us know via the [RSVP](https://withjoy.com/freyamichael/rsvp) page if you wish to use the shuttle bus.
 
 ## 4:00 pm - Welcome to The Burrow
 
