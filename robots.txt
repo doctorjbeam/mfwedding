@@ -1,0 +1,27 @@
+User-agent: *
+
+Disallow: /
+
+Disallow: /section/facilities-accessibility/
+
+Disallow: /accommodation/
+
+Disallow: /categories/
+
+Disallow: /section/dress/
+
+Disallow: /food/
+
+Disallow: /section/gifts/
+
+Disallow: /section/order-of-events/
+
+Disallow: /rsvp/
+
+Disallow: /section/
+
+Disallow: /tags/
+
+Disallow: /travel/
+
+Disallow: /section/travel-accommodation/
