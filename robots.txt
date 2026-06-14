@@ -6,6 +6,8 @@ Disallow: /section/facilities-accessibility/
 
 Disallow: /accommodation/
 
+Disallow: /section/accommodation/
+
 Disallow: /categories/
 
 Disallow: /section/dress/
@@ -22,6 +24,8 @@ Disallow: /section/
 
 Disallow: /tags/
 
+Disallow: /section/travel/
+
 Disallow: /travel/
 
-Disallow: /section/travel-accommodation/
+Disallow: /section/see/
