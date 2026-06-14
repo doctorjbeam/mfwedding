@@ -39,9 +39,27 @@
             </div>
         </section>
         <center>
-            <p><em>View the <strong><a href="/travel">travel page</a></strong> for more info or go straight on to <strong><a href="https://withjoy.com/freyamichael/rsvp" target="_blank">RSVP</a></strong> if you're a winner.</em></p>
             <p>To give all our guests the opportunity to celebrate without having to worry about little eyes and ears, we politely request no children.</p>
         </center>
+    </section>
+    
+    <section id="dress" class="section light">
+
+        <h1 class="section__heading">RSVP</h1>
+        <section class="section__md-content">
+            <center>
+                <h3>Please <strong><a href="https://withjoy.com/freyamichael/rsvp" target="_blank">RSVP</a></strong> by September 19th.</h3>
+            </center>
+        </section>
+    </section>
+    
+    <section id="dress" class="section light">
+
+        {{ $t := .Site.GetPage "/section/dress" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
     </section>
 
     <div class="image image2"></div>
@@ -61,12 +79,12 @@
 
     <div class="image image3"></div>
 
-    <section id="travel-accommodation" class="section light">
+    <section id="travel" class="section light">
         <div class="section__svg">
             {{ partial "svgs/gumleaf3.svg" . }}
         </div>
 
-        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
+        {{ $t := .Site.GetPage "/section/travel" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}
@@ -75,17 +93,6 @@
 
     <div class="image image4"></div>
 
-    <section id="dress" class="section light">
-        <div class="section__svg">
-            {{ partial "svgs/wattle.svg" . }}
-        </div>
-
-        {{ $t := .Site.GetPage "/section/dress" }}
-        <h1 class="section__heading">{{$t.Params.title}}</h1>
-        <section class="section__md-content">
-            {{ $t.Content }}
-        </section>
-    </section>
     <section id="facilities-accessibility" class="section light">
         {{ $t := .Site.GetPage "/section/facilities-accessibility" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
@@ -93,6 +100,31 @@
             {{ $t.Content }}
         </section>
     </section>
+
+    <section id="whatson" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/wattle.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/see" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <section id="accommodation" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/wattle.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/accommodation" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+    
     <section id="gifts" class="section light">
         {{ $t := .Site.GetPage "/section/gifts" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>

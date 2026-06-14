@@ -545,6 +545,11 @@ p {
         padding-left: 4rem;
         padding-right: 4rem;
     }
+    section.section ol p,
+    section.section ul p {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
 }
 
 .section__md-content h2 {
@@ -616,7 +621,7 @@ figcaption {
 
 section.section ol,
 section.section ul {
-    margin: 0 5rem;
+    margin: 0 2rem;
 }
 
 section.section ol ol,
