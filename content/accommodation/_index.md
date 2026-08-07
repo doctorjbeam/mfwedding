@@ -33,3 +33,13 @@ Daylesford and the surrounding towns have plenty of AirBnBs on offer, either thr
 
 - [Lake House](https://lakehouse.com.au/), Daylesford.
   - 17 minute drive.
+
+- [The Royal Hotel](http://www.daylesfordroyalhotel.com.au/), Daylesford
+
+- [Central Springs Inn](http://www.centralspringsinn.com.au/), Daylesford
+
+- [Albert Hotel](https://alberthoteldaylesford.com.au/), Daylesford
+
+- [Hotel Frangos](http://hotelfrangos.com.au/), Daylesford
+
+- [Daylesford Central Motor Inn](http://www.daylesfordcentralmotorinn.com/), Daylesford

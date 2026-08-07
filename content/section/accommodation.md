@@ -23,7 +23,7 @@ Daylesford and the surrounding towns have plenty of AirBnBs on offer, either thr
 
 - [Hotel Bellinzona](https://clubwyndhamsp.com/resorts/victoria/club-wyndham-bellinzona-hepburn-springs-daylesford/), Hepburn.
   - Recently rennovated, offerring posh rooms with a great restaurant downstairs.
-  - 18 minute drive. 10 minutes if your name is Matt.
+  - 18 minute drive.
 
 - [Mineral Springs Hotel](https://www.mineralspringshotel.com.au/), Hepburn.
   - 19 minute drive.
@@ -33,3 +33,13 @@ Daylesford and the surrounding towns have plenty of AirBnBs on offer, either thr
 
 - [Lake House](https://lakehouse.com.au/), Daylesford.
   - 17 minute drive.
+
+- [The Royal Hotel](http://www.daylesfordroyalhotel.com.au/), Daylesford
+
+- [Central Springs Inn](http://www.centralspringsinn.com.au/), Daylesford
+
+- [Albert Hotel](https://alberthoteldaylesford.com.au/), Daylesford
+
+- [Hotel Frangos](http://hotelfrangos.com.au/), Daylesford
+
+- [Daylesford Central Motor Inn](http://www.daylesfordcentralmotorinn.com/), Daylesford
