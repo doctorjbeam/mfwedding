@@ -19,6 +19,10 @@ Daylesford and the surrounding towns have plenty of AirBnBs on offer, either thr
 
 [The Houses Daylesford](https://thehousesdaylesford.com/) offer more boutique accommodation with houses ranging from 1 all the way up to 20 bedrooms: great if you wanted to split the cost of staying overnight.
 
+## Daylesford Country Retreats
+
+[Daylesford Country Retreats](https://daylesfordcountryretreats.com.au/) have over 120 properties, so there should be something for everyone.
+
 ## Hotels
 
 - [Hotel Bellinzona](https://clubwyndhamsp.com/resorts/victoria/club-wyndham-bellinzona-hepburn-springs-daylesford/), Hepburn.
