@@ -27,21 +27,63 @@
         </style>
     </head>
     <body>
-        <video autoplay muted loop playsinline width="326" height="276" controls>
+        <video id="video" autoplay muted loop playsinline width="326" height="276" controls>
             <source src="image/kombucha-funny-meme.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const video = document.getElementById("video"); // Change to your video's ID
+            const VIDEO_LENGTH = 6; // Length of the video in seconds
+            let redirectTriggered = false;
+
+            if (!video) return;
+
+            // Track actual video playback time so buffering doesn't ruin the countdown
+            video.addEventListener("timeupdate", function () {
+                if (video.currentTime >= VIDEO_LENGTH && !redirectTriggered) {
+                    redirectTriggered = true;
+                    video.pause();
+                    redirectToYouTube();
+                }
+            });
+
+            function redirectToYouTube() {
+                const videoId = "dQw4w9WgXcQ"; // Replace with your actual YouTube Video ID
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+                // Clean hardcoded URL bases with zero trailing issues
+                const webUrl = "https://www.youtube.com/watch?v=" + videoId;
+                const iosAppUrl = "youtube://www.youtube.com/watch?v=" + videoId;
+                const androidIntent = "intent://www.youtube.com/watch?v=" + videoId + "#Intent;package=com.google.android.youtube;scheme=https;end;";
+
+                // 1. Android Detection (Forces Brave & Chrome to hand off to the YouTube App)
+                if (/Android/i.test(userAgent)) {
+                    window.location.href = androidIntent;
+                    return;
+                }
+
+                // 2. iOS Detection (iPhone/iPad/iPod)
+                if (/iPhone|iPad|iPod/i.test(userAgent)) {
+                    window.location.href = iosAppUrl;
+                    
+                    // If the user doesn't have the app installed, fall back to Safari/Web after 500ms
+                    setTimeout(function () {
+                        window.location.href = webUrl;
+                    }, 500);
+                    return;
+                }
+
+                // 3. Desktop / Everywhere Else Fallback
+                window.location.href = webUrl;
+            }
+        });
+/*
         // Replace with your actual YouTube Video ID
         const videoId = "dQw4w9WgXcQ"; 
 
         const userAgent = navigator.userAgent || navigator.vendor || window.opera;
         const fallbackUrl = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
-        //const fallbackLinkElement = document.getElementById('fallback-link');
-
-        // Configure the fallback button link just in case
-        //fallbackLinkElement.href = fallbackUrl;
-
         setTimeout(() => {
             if (/android/i.test(userAgent)) {
                 // Android: Use Chrome Intent syntax to force open the app or fall back to browser/Play Store
@@ -60,7 +102,7 @@
                 // Desktop or other OS: Redirect to standard web URL
                 window.location.href = fallbackUrl;
             }
-            }, 12000);
+            }, 12000);*/
     </script>
     </body>
 </html>
