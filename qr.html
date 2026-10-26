@@ -59,7 +59,7 @@
 
                 // 1. Android Detection (Forces Brave & Chrome to hand off to the YouTube App)
                 if (/Android/i.test(userAgent)) {
-                    window.location.href = androidIntent;
+                    window.location.href = webUrl;
                     return;
                 }
 
